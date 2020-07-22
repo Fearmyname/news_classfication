@@ -1,1 +1,3 @@
 # news_classfication
+首先尝试对text做TfidfVectorizer,使用逻辑回归和lightgbm对文本进行分类
+下一步准备尝试Word2Vec和LSTM等nn模型对文本分类
