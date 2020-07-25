@@ -1,3 +1,4 @@
 # news_classfication
-首先尝试对text做TfidfVectorizer,使用逻辑回归和lightgbm对文本进行分类
+day1.首先尝试对text做TfidfVectorizer,使用逻辑回归和lightgbm对文本进行分类
 下一步准备尝试Word2Vec和LSTM等nn模型对文本分类
+day2.尝试Bag of Words，在sklearn中可以直接CountVectorizer来实现这一步骤，通过lgg模型对数据分类。线上0.935分
